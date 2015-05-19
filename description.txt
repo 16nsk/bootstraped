@@ -1,0 +1,2 @@
+Bootstraped
+A theme that takes care only of what it should do and adding Bootstrap, Bootswatch and some popular addons. It's part of a larger package that make Concrete5 integrate Bootstrap at the best level.
