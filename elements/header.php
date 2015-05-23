@@ -3,7 +3,7 @@
 <html lang="<?php echo Localization::activeLanguage()?>">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <?php echo $html->css($view->getStylesheet('main.less'))?>
+    <?php echo $html->css($view->getStylesheet('styles.less'))?>
     <?php Loader::element('header_required', array('pageTitle' => $pageTitle));?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script>

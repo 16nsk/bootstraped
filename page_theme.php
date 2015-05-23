@@ -1,5 +1,6 @@
 <?php
-namespace Application\Theme\Bootstrap;
+namespace Application\Theme\Bootstraped;
+
 class PageTheme extends \Concrete\Core\Page\Theme\Theme {
 
 	public function registerAssets() {
